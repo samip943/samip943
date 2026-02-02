@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samip007
+- 👋 Hi, I’m Samip Joshi
 - 🌱 I’m currently learning Web Development.
 
 
