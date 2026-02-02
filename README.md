@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @samip943
-- 👀 I’m interested in football, table tennis, coding.
-- 🌱 I’m currently learning AI/ Mobile Learning.
+- 👋 Hi, I’m @samip007
+- 🌱 I’m currently learning Web Development.
 
 
 <!---
